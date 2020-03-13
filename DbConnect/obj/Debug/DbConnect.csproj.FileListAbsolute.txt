@@ -1,0 +1,6 @@
+C:\Users\SJB\Desktop\microsoft\DbConnect\bin\Debug\DbConnect.exe.config
+C:\Users\SJB\Desktop\microsoft\DbConnect\bin\Debug\DbConnect.exe
+C:\Users\SJB\Desktop\microsoft\DbConnect\bin\Debug\DbConnect.pdb
+C:\Users\SJB\Desktop\microsoft\DbConnect\obj\Debug\DbConnect.csprojAssemblyReference.cache
+C:\Users\SJB\Desktop\microsoft\DbConnect\obj\Debug\DbConnect.exe
+C:\Users\SJB\Desktop\microsoft\DbConnect\obj\Debug\DbConnect.pdb
